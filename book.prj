@@ -1,0 +1,51 @@
+33 Patch Control
+
+0
+0
+1
+klBook.tex
+9
+8
+0
+
+klBook.tex
+TeX
+403714043 0 -1 3713 -1 3705 0 0 2608 1295 0 1 61 1032 -1 -1 0 0 28 -1 -1 28 1 0 3705 -1  0 -1 0
+DevopsAndPracticalAdvice.tex
+TeX
+1060859 0 -1 2717 -1 3262 343 343 1296 1231 0 1 529 506 -1 -1 0 0 42 -1 -1 42 1 0 3262 -1  0 -1 0
+HDP.tex
+TeX
+1060859 0 -1 1933 -1 2020 147 147 2853 1208 0 1 61 989 -1 -1 0 0 47 -1 -1 47 1 0 2020 -1  0 -1 0
+Appendix_Statistics.tex
+TeX
+1060859 0 -1 5038 -1 2252 294 294 1390 1097 0 1 133 391 -1 -1 0 0 29 -1 -1 29 1 0 2252 -1  0 -1 0
+klSoftware.tex
+TeX
+1060859 0 -1 0 -1 0 294 294 1247 1182 0 1 49 0 -1 -1 0 0 0 -1 -1 0 1 0 0 -1  0 -1 0
+thebibliography.bib
+BibTeX
+1049586 0 0 1 0 1 49 49 2755 1110 0 1 49 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 -1 0
+klBookContent.tex
+TeX
+1060859 0 -1 0 -1 0 98 98 2804 1159 0 1 49 0 -1 -1 0 0 35 -1 -1 35 1 0 0 -1  0 -1 0
+Applications.tex
+TeX
+1060859 0 -1 855 -1 612 343 343 1296 1231 0 1 1033 184 -1 -1 0 0 50 -1 -1 50 1 0 612 -1  0 -1 0
+:\Google Drive\writing\lte\letter-of-reccomendation-template\CoverLetter.tex
+TeX
+269496315 1 -1 2095 -1 862 304 304 1145 1058 0 1 49 391 -1 -1 0 0 -1 -1 -1 -1 1 0 862 -1  0 -1 0
+
+*klBook.tex
+>
+*ABS
+*Introduction
+*klBookContent
+*HDP
+*Applications
+*Appendix_Statistics
+*Appendix_Probability
+*Appendix_Numerical
+*klsoftware
+*thebibliography
+<
