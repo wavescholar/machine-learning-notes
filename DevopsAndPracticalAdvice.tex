@@ -35,7 +35,7 @@ Fixed effects normally aren’t. Mean reversion applies to most things, includin
 2. Write down what you know both in and out of sample, and what you only know in sample.
 As I wrote in my rules of thumb, you need to have a very clear idea of what the random variables are in your model. Random variables are simply those variables whose values are in part due to chance. For most modeling purposes, our random variables are the things we don’t know for sure out of sample. These might include model parameters, latent variables, predictions, etc. [Edit: I don't mean literally that model parameters are random; it's our understanding of them which has uncertainty].
 A common problem occurs when the modeler uses a random variable as a predictive feature in a model but does not explicitly model it. For instance they might build a model that looks a bit like
-Salest=f(Weathert,Day of the weekt)+errort
+Salest=f(Weathert,Day of the weekt)+effort
 
 Next, when called on to make a prediction, the modeler uses forecasts for weather to generate predictions for sales, but without taking into account the uncertainty around weather (a random variable). As for the day of the week, this is not a random variable and so we don’t have to model it. Any forecasts conditioned on random variables without taking into account their uncertainty will be far too precise.
 The reason we should write down what the random variables are in the model is because this is precisely what we are going to model.
