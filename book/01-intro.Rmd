@@ -1,0 +1,36 @@
+# Introduction {#intro}
+
+This work is a field guide for applied machine learning and mathematical data science. These pages have variously served as personal notes and software capability demonstrations over the years.  A certain amount of mathematical sophistication is assumed at points.
+\newcommand{\A}{{\cal A}}
+\newcommand{\h}{{\cal H}}
+\newcommand{\s}{{\cal S}}
+\newcommand{\W}{{\cal W}}
+\newcommand{\BH}{\mathbf B(\cal H)}
+\newcommand{\KH}{\cal  K(\cal H)}
+\newcommand{\Real}{\mathbb R}
+\newcommand{\Complex}{\mathbb C}
+\newcommand{\Field}{\mathbb F}
+\newcommand{\RPlus}{[0,\infty)}
+\newcommand{\norm}[1]{\left\Vert#1\right\Vert}
+\newcommand{\essnorm}[1]{\norm{#1}_{\text{\rm\normalshape ess}}}
+\newcommand{\abs}[1]{\left\vert#1\right\vert}
+\newcommand{\set}[1]{\left\{#1\right\}}
+\newcommand{\seq}[1]{\left<#1\right>}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\To}{\longrightarrow}
+\newcommand{\RE}{\operatorname{Re}}
+\newcommand{\IM}{\operatorname{Im}}
+\newcommand{\Poly}{{\cal{P}}(E)}
+\newcommand{\EssD}{{\cal{D}}}
+\newcommand{\field}[1]{\mathbb{#1}}
+\newcommand{\script}[1]{\mathcal{#1}}
+\newcommand{\fall}{\; \forall \;}
+\newcommand{\exts}{\; \exists \;}
+\newcommand{\st}{\; \ni \;}
+\newcommand{\mbf}[1]{\mathbf{#1}}
+\newcommand{\binomial}[2]{\biggl( \begin{array}{c}  #1 \\ #2  \\ \end{array} \biggr) }
+\newcommand{\fderiv}[2]{ \frac{d}{ d #1} \: #2}
+\newcommand{\sderiv}[2]{ \frac{d^2}{ d^2 #1} \: #2}
+\newcommand{\pfderiv}[2]{ \frac{\partial}{ \partial #1} \: #2}
+\newcommand{\psderiv}[2]{ \frac{\partial^2}{ \partial^2 #1} \: #2}
+\newcommand{\mat}[1]{\mathbf{#1}}
