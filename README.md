@@ -1,2 +1,4 @@
 # machine-learning-notes
-Machine Learning Notes - very messy right now
+
+
+Machine Learning Notes - very very messy right now
